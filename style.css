@@ -1,0 +1,55 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  text-align: center;
+  background-image: url("https://papers.co/wallpaper/papers.co-ne80-coding-screen-digital-art-dark-bw-35-3840x2160-4k-wallpaper.jpg");
+  background-color: #000000;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+ text-shadow: 1px 1px 5px black;
+}
+
+h3 {
+  color: white;
+ text-shadow: 1px 1px 5px black;
+ }
+ .exemplo { 
+color: white;
+
+}
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 5px;
+ text-shadow: 1px 1px 5px black;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+
+body > img {
+  margin: 0 10px;
+}
+
+img {
+  max-height: 250px;
+}
+
+input {
+  width: 25%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  text-align: center
+}
